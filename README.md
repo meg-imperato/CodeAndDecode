@@ -1,6 +1,6 @@
 # CodeAndDecode
 
-This is a fun project that allows users to create and subsequently decode coded messages using a numeric key.
+This project allows users to create and subsequently decode coded messages using a numeric key.
 Topics: 
 * ASCII (American Standard Code for Information Interchange)
 * Variable types (String vs numbers)
